@@ -11,6 +11,7 @@
   "dependencies": {
     "@abandonware/noble": "^1.9.2-10",
     "@influxdata/influxdb-client": "^1.6.0",
+    "axios": "^0.20.0",
     "node-beacon-scanner": "^0.2.2",
     "round-to": "^4.1.0"
   }
